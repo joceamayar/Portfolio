@@ -93,7 +93,12 @@ a {
 }
 
 /* Projects */
+/* .h3-projects{
+    text-align: center;
+    font-size: 200%;
+    margin: 10px;
 
+} */
 .project1 {
     align-self: stretch;
 }
@@ -129,24 +134,29 @@ h1 {
     transform: translate(-50%, -50%);
 }
 
-.contact{
-    padding: 200px 50px;
-   
-}
-/* h3{
-    font-size:
-} */
 .projets-img{
     padding:10px ;
     border-radius: 20px;
-   
 }
+
+/* Cantact me  */
 
 .contact{
-
     display: flex;
-
+    position: relative;
+    justify-content: center;
+    padding: 5%;
+    margin: 10% ;
+ 
 }
+
+.ul-contact{
+    display: flex;
+    position: relative;
+    
+}
+
+
 
 .footer {
     padding: 60px;
@@ -156,7 +166,11 @@ h1 {
     height: auto;
     color: #f3f1f7;
     background-color: black;
+    text-align:left;
 }
+
+
+
 .small-container{
     display: grid;
     grid-template-columns: 1fr  1fr 1fr;
@@ -175,3 +189,12 @@ h1 {
     grid-template-rows: repeat(8,  400px);
     }
 }
+
+/* .classhover{
+    background-color: rgb(202, 48, 74);
+    color: white
+} */
+
+/* button:active{
+    font:size:180%
+} */
