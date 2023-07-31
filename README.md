@@ -5,14 +5,6 @@ https://github.com/joceamayar/Portfolio
 
 This portfolio is intended to showcase my skills and past work experiences to potential employers and clients, allowing them to understand my coding style and assess my proficiency as a fullstack developer. 
 
-
-<img width="1257" alt="Screenshot 2023-07-29 at 10 21 20 AM" src="https://github.com/joceamayar/Portfolio/assets/136951180/79006b61-8ba4-4106-9e8c-05daecba6d1e">
-
-
-<img width="1132" alt="Screenshot 2023-07-29 at 10 22 03 AM" src="https://github.com/joceamayar/Portfolio/assets/136951180/eaf8e59f-cf41-47c9-8bff-fb17fd38eaee">
-
-
-
 ## Table of Contents    
 
 - [Installation](#installation)
@@ -37,6 +29,11 @@ The utilization of portfolios offers employers or potential customers a comprehe
 
 
 
+
+<img width="1257" alt="Screenshot 2023-07-29 at 10 21 20 AM" src="https://github.com/joceamayar/Portfolio/assets/136951180/79006b61-8ba4-4106-9e8c-05daecba6d1e">
+
+
+<img width="1132" alt="Screenshot 2023-07-29 at 10 22 03 AM" src="https://github.com/joceamayar/Portfolio/assets/136951180/eaf8e59f-cf41-47c9-8bff-fb17fd38eaee">
 
 
 
